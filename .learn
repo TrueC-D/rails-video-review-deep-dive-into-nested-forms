@@ -1,5 +1,7 @@
 tags:
-  - tag1
+  - video
+  - nested forms
+  - review
 languages:
-  - language1
-resources: 0
+  - rub
+resources: 1
